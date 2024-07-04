@@ -23,6 +23,6 @@ void main() async {
     }
   }
 
-  // Dart equivalent of input("") to pause at the end
+  // to pause at the end
   await stdin.first;
 }
